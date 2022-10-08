@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
+# This crawler will output 20 URLs and their corresponding texts
 
 
 
